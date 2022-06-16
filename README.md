@@ -1,6 +1,6 @@
 # ProvaAi-Delivery
 
-Atividade de Estudo Programada - Unicesumar ESOF3S
+Atividade de Estudo Programada - Unicesumar ESOFT3S
 
 Projeto: ProvaAi! Delivery
 
